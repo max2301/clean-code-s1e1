@@ -113,7 +113,7 @@
   align-items: center;
 }
 .todo-app__list-item .input {
-  display: none
+  display: none;
 }
 /* add block */
 .add-todo__button:hover {
@@ -135,7 +135,7 @@
 .add-todo__input {
   width: 318px;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 /* list-item block*/
@@ -148,14 +148,14 @@
 }
 .list-item__input {
   vertical-align: middle;
-  width: 226px
+  width: 226px;
 }
 .list-item__button {
   vertical-align: middle;
 }
 .list-item--edit-mode .input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 .list-item--edit-mode .task {
   display: none;
