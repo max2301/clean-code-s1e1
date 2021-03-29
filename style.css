@@ -7,7 +7,7 @@
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-  outline:none;
+  outline: none;
 }
 .button:hover {
   color: #3a3a3a;
@@ -34,7 +34,7 @@
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
-  outline:none;
+  outline: none;
 }
 .input:focus {
   color: #333;
@@ -42,7 +42,7 @@
 /* checkbox block */
 .checkbox {
   margin: 0 10px;
-  outline:none;
+  outline: none;
 }
 
 /* eisenhower block */
@@ -93,7 +93,7 @@
   color: #888;
 }
 .todo-app__list-item {
-  list-style:none;
+  list-style: none;
 }
 .todo-app__heading {
   color: #333;
@@ -113,7 +113,7 @@
   align-items: center;
 }
 .todo-app__list-item .input {
-  display:none
+  display: none
 }
 /* add block */
 .add-todo__button:hover {
@@ -154,9 +154,9 @@
   vertical-align: middle;
 }
 .list-item--edit-mode .input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 .list-item--edit-mode .task {
-  display:none;
+  display: none;
 }
